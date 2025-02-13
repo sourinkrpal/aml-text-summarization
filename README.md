@@ -97,7 +97,7 @@ The frontend should now be accessible at `http://localhost:3000`.
 
 ## Model
 
-The text summarization model used in this project is available on Hugging Face: [https://huggingface.co/s0urin/aml-text-summarization-t5/tree/main](Link)
+The text summarization model used in this project is available on Hugging Face: [Link](https://huggingface.co/s0urin/aml-text-summarization-t5/tree/main)
 
 You can use this model in your own projects or further fine-tune it for specific use cases.
 
