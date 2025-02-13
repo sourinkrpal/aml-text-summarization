@@ -163,7 +163,7 @@ function App() {
           </Box>
 
           <IconButton
-            href="https://github.com/yourproject"
+            href="https://github.com/sourinkrpal/aml-text-summarization/"
             target="_blank"
             size="small"
           >
