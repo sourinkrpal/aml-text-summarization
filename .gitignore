@@ -1,0 +1,9 @@
+# Ignore node_modules
+summarizer-frontend/node_modules/
+
+# Ignore dependencies
+**/venv/
+**/__pycache__/
+
+# Ignore model weights
+summarizer-backend/final_model/
