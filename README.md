@@ -59,7 +59,11 @@ We worked on abstractive text summarization using an attention mechanism and pre
    ```sh
    pip install -r requirements.txt
    ```
-4. Run the backend server:
+   Alternatively, you can run this command
+   ```sh
+   pip install flask flask-cors transformers torch
+   ```
+5. Run the backend server:
    ```sh
    python server.py
    ```
