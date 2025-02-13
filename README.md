@@ -19,6 +19,7 @@ We worked on abstractive text summarization using an attention mechanism and pre
 ./
 ├── summarizer-backend/
 │   ├── server.py
+│   ├── requirements.txt
 ├── summarizer-frontend/
 │   ├── src/
 │   │   ├── App.js
