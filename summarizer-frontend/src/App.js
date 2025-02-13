@@ -17,7 +17,6 @@ import {
   Box,
   IconButton,
   Grid,
-  Slider,
   useTheme,
 } from "@mui/material";
 import axios from "axios";
